@@ -1,0 +1,5 @@
+Cantidad de micros 995 
+Cantidad de RAM 912
+Cantida de HDD 5500
+Cantidad mother 96
+

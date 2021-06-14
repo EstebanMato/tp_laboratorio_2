@@ -175,6 +175,27 @@ namespace Entidades
             sb.AppendLine($"Cantidad de micros {this.CantMicro} \nCantidad de RAM {this.CantMemoria}\nCantida de HDD {this.CantAlmacenamiento}\nCantidad mother {this.cantPlacaMadre}");
             return sb.ToString();
         }
+
+        /// <summary>
+        /// Agregar stock a la fabrica segun los valores pasados como parametros
+        /// </summary>
+        /// <param name="microprocesador"></param>
+        /// <param name="almacenamiento"></param>
+        /// <param name="placaMadre"></param>
+        /// <param name="memoriaRam"></param>
+        public void AgregarStock(int microprocesador, int almacenamiento, int placaMadre, int memoriaRam)
+        {
+            if(this != null)
+            {
+                this.CantMicro += microprocesador;
+                this.CantAlmacenamiento += almacenamiento;
+                this.CantPlacaMadre += placaMadre;
+                this.CantMemoria += memoriaRam;
+            }else
+            {
+                throw new StockException("No fue instanciada la fabrica antes de agregar stock", "Fabrica", "AgregarStock");
+            }
+        }
     }
 
 }

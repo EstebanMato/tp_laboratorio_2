@@ -41,7 +41,7 @@ namespace Entidades
         /// Lee el archivo txt segun la ruta pasada como parametro
         /// </summary>
         /// <param name="path">ruta del archivo txt</param>
-        /// <returns></returns>
+        /// <returns>Retorna lo que pudo leer, caso contrario vacio en formato string</returns>
         public static string LeerTxt(string path)
         {
             string texto = "";

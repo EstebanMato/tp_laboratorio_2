@@ -8,3 +8,13 @@ C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03
 C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.csproj.CopyComplete
 C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.exe
 C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.pdb
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\bin\Debug\Test.exe.config
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\bin\Debug\Test.exe
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\bin\Debug\Test.pdb
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\bin\Debug\Entidades.dll
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\bin\Debug\Entidades.pdb
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.csprojAssemblyReference.cache
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.csproj.CopyComplete
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.exe
+G:\Mi unidad\UTN\Laboratorio y programacion 2\tp_laboratorio_2\Trabajo_Practico_3\TP-03\Test\obj\Debug\Test.pdb

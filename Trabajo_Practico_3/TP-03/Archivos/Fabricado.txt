@@ -1,0 +1,8 @@
+El modelo fabricado es: SAMSUNG
+Cantidad de procesadores1
+Cantidad de memoria RAM 16
+Cantidad de almacenamiento 1000
+Cantidad de placa madre 1
+
+------------------
+
