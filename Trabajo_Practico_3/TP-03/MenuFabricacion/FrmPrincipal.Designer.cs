@@ -73,7 +73,7 @@ namespace MenuFabricacion
             this.Controls.Add(this.btnFabricacion);
             this.Controls.Add(this.btnFabricarProducto);
             this.Name = "FrmPrincipal";
-            this.Text = "Fabrica Mato Esteban 2D";
+            this.Text = "Fabrica Mato Esteban 2C";
             this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.ResumeLayout(false);
 
