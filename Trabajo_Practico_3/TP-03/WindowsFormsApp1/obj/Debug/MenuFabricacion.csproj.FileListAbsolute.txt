@@ -1,0 +1,13 @@
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\MenuFabricacion.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPrincipal.resources
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\MenuFabricacion.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\MenuFabricacion.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\bin\Debug\Entidades.dll
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\bin\Debug\Entidades.pdb
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\WindowsFormsApp1\obj\Debug\MenuFabricacion.csproj.CopyComplete

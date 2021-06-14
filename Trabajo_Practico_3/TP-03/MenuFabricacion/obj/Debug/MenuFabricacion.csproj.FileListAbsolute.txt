@@ -1,0 +1,16 @@
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\bin\Debug\MenuFabricacion.exe.config
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\bin\Debug\MenuFabricacion.exe
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\bin\Debug\MenuFabricacion.pdb
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\bin\Debug\Entidades.dll
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\bin\Debug\Entidades.pdb
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.FrmPrincipal.resources
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.Properties.Resources.resources
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.csproj.CopyComplete
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.exe
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.pdb
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.FrmControlStock.resources
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.FrmFabrica.resources
+C:\Users\Esteban\Desktop\reposVisual\Trabajos practicos\Trabajo_Practico_3\TP-03\MenuFabricacion\obj\Debug\MenuFabricacion.FrmCrearProducto.resources
